@@ -1,0 +1,401 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"reception",
+				"receptionYards"
+			],
+			[
+				"print",
+				"printDeck"
+			],
+			[
+				"ACE",
+				"ACE"
+			],
+			[
+				"change",
+				"change"
+			],
+			[
+				"left",
+				"left_over"
+			],
+			[
+				"cash_",
+				"cash_return_list"
+			],
+			[
+				"found",
+				"found"
+			],
+			[
+				"new",
+				"new_name"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "ff_db_populate.py",
+			"settings":
+			{
+				"buffer_size": 1159,
+				"line_ending": "Unix",
+				"name": "#create an INET, STREAMing socket"
+			}
+		},
+		{
+			"file": "transform_data.js",
+			"settings":
+			{
+				"buffer_size": 1094,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "data/week_6/espn_projections.csv",
+			"settings":
+			{
+				"buffer_size": 932,
+				"line_ending": "Unix",
+				"name": "\"0\",\"1\""
+			}
+		},
+		{
+			"file": "ff_db_creator.py",
+			"settings":
+			{
+				"buffer_size": 763,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "statsToDKFP.py",
+			"settings":
+			{
+				"buffer_size": 720,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/michaelyouniss/Desktop/Coding/FF_DB_Creator/.gitignore",
+		"/Users/michaelyouniss/Desktop/Coding/Python/Smarterer_Code_Challenge/.gitignore",
+		"/Users/michaelyouniss/Desktop/Coding/Python/Smarterer_Code_Challenge/database_creator.py",
+		"/Users/michaelyouniss/Desktop/Coding/Python/Smarterer_Code_Challenge/database_playground.py",
+		"/Users/michaelyouniss/Desktop/Coding/FF_DB_Creator/__init__.py",
+		"/Users/michaelyouniss/Desktop/Coding/Deck.java",
+		"/Users/michaelyouniss/Desktop/Website/michaelyouniss.html",
+		"/Users/michaelyouniss/Desktop/michaelyouniss.html",
+		"/Users/michaelyouniss/Desktop/Coding/Python/coinMachine.py",
+		"/Volumes/192.168.56.101/usr/share/smarterer/quiz_site/app/views/admin/users/user_accounts_select_merge.html.template",
+		"/Volumes/192.168.56.101/usr/share/smarterer/quiz_site/app/controllers/admin_user_controller.py",
+		"/Volumes/192.168.56.101/usr/share/smarterer/quiz_site/startup/nginx.conf",
+		"/Volumes/192.168.56.101/usr/share/smarterer/quiz_site/environment.py",
+		"/Volumes/192.168.56.101/usr/share/smarterer/quiz_site/app/views/admin/users/user_accounts_merge.html.template",
+		"/Volumes/192.168.56.101/usr/share/smarterer/quiz_site/app/views/michael/show.html.template",
+		"/Users/michaelyouniss/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/michaelyouniss/Library/Application Support/Sublime Text 2/Packages/User/Python.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"append",
+			"return_lis",
+			"return_list",
+			"change_output",
+			"change",
+			"coin_",
+			"change_",
+			"coin",
+			"cash",
+			"default_debu192",
+			"default_debug",
+			"#",
+			"pybald",
+			"user_name_changed",
+			"User",
+			"_get_info_user",
+			"primary",
+			"template",
+			"user_select_merge",
+			"user_accounts_select_merge"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "ff_db_populate.py",
+					"settings":
+					{
+						"buffer_size": 1159,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								723,
+								723
+							]
+						],
+						"settings":
+						{
+							"auto_name": "#create an INET, STREAMing socket",
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "transform_data.js",
+					"settings":
+					{
+						"buffer_size": 1094,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1094,
+								1094
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "data/week_6/espn_projections.csv",
+					"settings":
+					{
+						"buffer_size": 932,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "\"0\",\"1\"",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "ff_db_creator.py",
+					"settings":
+					{
+						"buffer_size": 763,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14,
+								14
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "statsToDKFP.py",
+					"settings":
+					{
+						"buffer_size": 720,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								720,
+								720
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 2
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 167.0,
+	"status_bar_visible": true
+}
