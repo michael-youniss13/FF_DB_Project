@@ -27,3 +27,4 @@ def convert(passingYards, passingTDs, passingInts,
 	if passingYards >= 300:
 		score += 3.0
 	return score
+	
